@@ -20,7 +20,7 @@
 # How to install
 1) Установить composer по инструкции с официального сайта: https://getcomposer.org/download/
 2) Установить docker по инструкции с официального сайта: https://docs.docker.com/engine/install/
-3) Склонировать данный репозиторий через консоль, предварительно убедитесь, что вами выбрана верня директория <br>
+3) Склонировать данный репозиторий через терминал PhpStorm, либо консоль, предварительно убедитесь, что вами выбрана верня директория <br>
    (`git clone https://github.com/Wantedfoxy/932021.Zamyatin.Alexander.Lab12.git`)
 5) `cd 932021.Zamyatin.Alexander.Lab12`
 6) `composer update`
